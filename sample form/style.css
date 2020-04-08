@@ -1,0 +1,30 @@
+body
+{
+    background-color: #EEE;
+    font-size: 16px;
+}
+
+/* astreq */
+.astreq{
+    color: #dc2121;
+    font-size: 1.5em;
+    position: relative;
+    top: 6px;
+    left: 4px;
+}
+
+.form-control{
+    background-color: #fafbfc !important;
+}
+
+.notvailt{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-163px);
+    visibility: hidden;
+}
+
+.success{
+    display: none;
+    text-align: center;
+}
